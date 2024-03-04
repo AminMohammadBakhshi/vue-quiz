@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Build",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#ec5858"
+    },
+    {
+      "id": "2",
+      "title": "your",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#9ad3bc"
+    },
+    {
+      "id": "3",
+      "title": "weaknesses",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#16a596"
+    },
+    {
+      "id": "4",
+      "title": "until",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#b8de6f"
+    },
+    {
+      "id": "5",
+      "title": "they",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#2d6187"
+    },
+    {
+      "id": "6",
+      "title": "become",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#28df99"
+    },
+    {
+      "id": "7",
+      "title": "your",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#9d65c9"
+    },
+    {
+      "id": "8",
+      "title": "strong",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#3e978b"
+    },
+    {
+      "id": "9",
+      "title": "points",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#00334e"
+    },
+    {
+      "id": 10,
+      "title": "koft kari",
+      "description": "lorem ipsum dolor sit amet",
+      "img": "https://source.unsplash.com/random",
+      "color": "#00334e"
+    }
+  ]
+}
